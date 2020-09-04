@@ -3,4 +3,4 @@ https://www.theodinproject.com/courses/web-development-101/lessons/pairing-proje
 Making some changed on implementation to reflect OOP and Factory Model Design. This project will be refactor and to include Webpack on next build!
 I have learned some Webpack feature on this project and implemented Pomodoro Clock with Javascript. Learner is encourage to come up with implementation on javascript of this project.
 This example show how learner applied skills learned from the Odin Projects.
-The Odin Projects is challeging but it let learner learn challenge and good habit on  programming.
+The Odin Projects is challeging but it let learner learn challenge and good habit on  programming. Pamadora is a popular tracking App use to improved Habit of doing something progressively.
